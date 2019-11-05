@@ -1,0 +1,16 @@
+#window{
+    background-color:#1C0F13;
+    position:absolute;
+    top:70;
+    left:400;
+}
+#text{
+    font:bold 40px Arial;
+    position: absolute;
+    top:-35px;
+    left:475px;
+    box-shadow: 2px 2px 2px 2px blue
+}
+body{
+    background-color: #BBBAC6;
+}
